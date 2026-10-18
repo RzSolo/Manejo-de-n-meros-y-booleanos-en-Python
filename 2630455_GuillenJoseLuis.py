@@ -2,7 +2,7 @@
 # Name:      José Luis Guillen González
 # Student ID:       2630455
 # Group:     IM 1-2
-# Course:    Programming fundamentals
+# Course:    Programming Methodologies
 # Topic:     Numeric types (int, float) and booleans in Python
 # GitHub repository: <https://github.com/RzSolo/Manejo-de-n-meros-y-booleanos-en-Python/upload>
 
